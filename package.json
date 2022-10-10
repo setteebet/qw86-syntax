@@ -1,0 +1,18 @@
+{
+  "name": "qw86-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottooneหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottooneหวย",
+"วิธีแทงหวยในเว็บ",
+"lottovipcompany",
+"สมัครเว็บแทงหวยฮานอย",
+"สมัครเว็บหวยสด"
+],
+  "repository": "https://github.com/setteebet/qw86-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
